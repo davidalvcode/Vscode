@@ -1,0 +1,1 @@
+El texto de un libro es el contenido principal escrito, organizado en capítulos, que puede ser digitalizado rápidamente usando aplicaciones con reconocimiento óptico de caracteres (OCR), como la cámara del iPhone o Google Lens en Android. Estas herramientas permiten escanear una página física, copiarla y pegarla en un documento editable. 
